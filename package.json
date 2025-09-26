@@ -1,0 +1,20 @@
+{
+  "name": "jsextra_hw_testing",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SadliyVI/JSExtra_HW_Testing#readme",
+  "bugs": {
+    "url": "https://github.com/SadliyVI/JSExtra_HW_Testing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadliyVI/JSExtra_HW_Testing.git"
+  },
+  "license": "ISC",
+  "author": "SadliyVI",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  }
+}
