@@ -1,0 +1,1 @@
+[![jsextra_hw_testing_task](https://github.com/SadliyVI/JSExtra_HW_Testing/actions/workflows/main.yml/badge.svg)](https://github.com/SadliyVI/JSExtra_HW_Testing/actions/workflows/main.yml)
